@@ -1,0 +1,1 @@
+@py.exe C:\PyProgs\SuperInstantiation.pyw %*
